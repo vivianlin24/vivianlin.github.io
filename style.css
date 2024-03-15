@@ -1,0 +1,107 @@
+/* Adjust the position of the section when jumping to it */
+#Introduction {
+    padding-top: 50px; 
+    margin-top: -50px; 
+}
+
+#Objectives {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+#Methods {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+#Results {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+#Limitations {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+#RelatedW {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+#Report {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+#Next {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
+/* Adjust format and color of buttons */
+button {
+    background-color: #5385b7; /* steel blue */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: #306FAD; /* astral blue */
+    color: white;
+}
+
+button a {
+    color: white;
+}
+
+button a:hover {
+    color: white;
+}
+
+/* format meet the team */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+}
+
+.gallery div {
+    text-align: center;
+}
+
+.gallery img {
+    width: 80%;
+    height: auto;
+}
+
+.gallery p{
+    font-size: 16px;
+}
+
+/* puts text in a new line */
+.new-line {
+    display: block;
+    margin-bottom:10px
+}
+
+.custom-button {
+    background-color: #FF6347; /* Coral color */
+    color: white;
+    padding: 10px 20px; /* Increase padding for larger size */
+    font-size: 16px; /* Increase font size for larger size */
+    border-radius: 8px; /* Add border radius for rounded corners */
+}
+
+.custom-button:hover {
+    background-color: #FF4500; /* Darker coral color on hover */
+}
+
