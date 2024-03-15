@@ -1,0 +1,7 @@
+title: Developing Political Personas Through Generative Language Modeling
+remote_theme: pages-themes/tactile@v0.2.0
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
