@@ -4,37 +4,7 @@
     margin-top: -50px; 
 }
 
-#Objectives {
-    padding-top: 50px;
-    margin-top: -50px; 
-}
-
-#Methods {
-    padding-top: 50px;
-    margin-top: -50px; 
-}
-
-#Results {
-    padding-top: 50px;
-    margin-top: -50px; 
-}
-
-#Limitations {
-    padding-top: 50px;
-    margin-top: -50px; 
-}
-
-#RelatedW {
-    padding-top: 50px;
-    margin-top: -50px; 
-}
-
-#Report {
-    padding-top: 50px;
-    margin-top: -50px; 
-}
-
-#Next {
+#Education {
     padding-top: 50px;
     margin-top: -50px; 
 }
@@ -67,41 +37,8 @@ button a:hover {
     color: white;
 }
 
-/* format meet the team */
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 10px;
-}
-
-.gallery div {
-    text-align: center;
-}
-
-.gallery img {
-    width: 80%;
-    height: auto;
-}
-
-.gallery p{
-    font-size: 16px;
-}
-
 /* puts text in a new line */
 .new-line {
     display: block;
     margin-bottom:10px
 }
-
-.custom-button {
-    background-color: #FF6347; /* Coral color */
-    color: white;
-    padding: 10px 20px; /* Increase padding for larger size */
-    font-size: 16px; /* Increase font size for larger size */
-    border-radius: 8px; /* Add border radius for rounded corners */
-}
-
-.custom-button:hover {
-    background-color: #FF4500; /* Darker coral color on hover */
-}
-
