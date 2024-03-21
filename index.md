@@ -29,6 +29,7 @@ University of California, San Diego
   <li><strong>Relevant Coursework</strong>: Probabilistic Modeling and ML, Representation Learning, Systems for Scalable Analytics, Recommender Systems and Web Mining, Data Structures and Algorithms, Data Analysis and Inference, Product Management and Marketing</li>
   <li><strong>Involvements</strong>: Data Science Student Society, Society of Women Engineers, Delta Sigma Pi, Chinese American Student Association</li>
 </ul>
+</p>
 
 ## My Previous Experiences
 <p id="Experience">
@@ -139,7 +140,7 @@ University of California, San Diego
         <p><strong>travel!</strong></p>
     </div>
   </div>
-  
 </p>
+
 
 
