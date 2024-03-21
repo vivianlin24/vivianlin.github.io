@@ -118,6 +118,7 @@ University of California, San Diego
     <a href="NYPD_Civilian_Complaints_Project.pdf" class="button" target="_blank">Click Here to See!</a>
   <br>
   <br>
+  <br>
   <ul>
     <li>Constructed a binary classification model to predict whether a civilian’s complaint to the NYPD will be addressed or not </li>
     <li>Performed feature engineering to provide the model with more help features and increase the accuracy of the predictions </li>
