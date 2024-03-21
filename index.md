@@ -7,7 +7,7 @@
 
 ## A Little About Me...
 <p id="Introduction">
-  <div class="gallery">
+  <div class="photo-container">
     <div style="text-align: center;">
         <img src="vivian.jpg" alt="Vivian Lin" style="width: 200px; height: auto;">
         <img src="sd.jpg" alt="San Diego Sunset" style="width: 200px; height: auto;">
