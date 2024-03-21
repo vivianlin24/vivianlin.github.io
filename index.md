@@ -21,7 +21,7 @@ Hello! My name is Vivian, and I am a Data Science Major with a Business minor at
 <p id="Experience">
 <strong>Data Science Tutor @Halıcıoğlu Data Science Institute</strong>
   <br>
-September 2022 - Present
+<em>September 2022 - Present</em>
   <ul>
     <li>Answer 300+ questions on the online class forum and develop 10+ LaTeX rubrics for grading assignments and exams</li>
     <li>Host weekly office hours for students to gain a better understanding on regression and statistical concepts</li>
@@ -32,7 +32,7 @@ September 2022 - Present
 
 <strong>Software Engineer Intern @Dassault Systèmes</strong>
 <br>
-June 2023 - September 2023
+<em>June 2023 - September 2023</em>
   <ul>
     <li>Created protocols for clients to test regression and classification models and standardize repetitive prediction model tasks</li>
     <li>Eliminated inefficiency and errors in R regression protocols within data pipelining engine to run on 17 versions of R</li>
@@ -43,7 +43,7 @@ June 2023 - September 2023
 
 <strong>Machine Learning Intern @Hyperplane</strong>
 <br>
-June 2022 - September 2022
+<em>June 2022 - September 2022</em>
   <ul>
     <li>Analyzed a dataset composed of millions of financial data points using BigQuery on Google Cloud Platform</li>
     <li>Deployed insights from queries to build distributed data ingestion and processing pipelines to predict customers’ income</li>
@@ -54,7 +54,7 @@ June 2022 - September 2022
 
 <strong>Data Analytics Intern @Lumnus Consulting</strong>
 <br>
-April 2023 - June 2023
+<em>April 2023 - June 2023</em>
   <ul>
     <li>Led a team to utilize exploratory data analysis and computational skills to gain insights on how to continue growing India's agriculture market despite rising carbon emissions and concluded with a presentation to all teams </li>
     <li>Leveraged social media data to find optimal ways to increase brand awareness, user engagement, and client acquisition </li>
@@ -65,8 +65,8 @@ April 2023 - June 2023
 <p id="Projects">
 <strong>k-NN Regression Prediction Model: League of Legends</strong>
   <br>
-    <a href="League_of_Legends_Project.pdf" class="button" target="_blank">Click Here to See!</a>
   <br>
+    <a href="League_of_Legends_Project.pdf" class="button" target="_blank">Click Here to See!</a>
   <br>
   <br>
   <ul>
@@ -76,8 +76,8 @@ April 2023 - June 2023
 
 <strong>Classification Prediction Model: NYPD Civilian Complaints</strong>
 <br>
+<br>
     <a href="NYPD_Civilian_Complaints_Project.pdf" class="button" target="_blank">Click Here to See!</a>
-  <br>
   <br>
   <br>
   <ul>
