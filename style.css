@@ -42,6 +42,15 @@ button a:hover {
     color: white;
 }
 
+.gallery div {
+    text-align: center;
+}
+
+.gallery img {
+    width: 80%;
+    height: auto;
+}
+
 /* puts text in a new line */
 .new-line {
     display: block;
