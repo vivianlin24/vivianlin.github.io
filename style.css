@@ -57,6 +57,12 @@ button a:hover {
     color: white;
 }
 
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
 .gallery div {
     text-align: center;
 }
@@ -64,6 +70,10 @@ button a:hover {
 .gallery img {
     width: 80%;
     height: auto;
+}
+
+.gallery p{
+    font-size: 16px;
 }
 
 /* puts text in a new line */
