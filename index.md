@@ -86,11 +86,6 @@ University of California, San Diego
     <li>Pandas, NumPy, Sci-Kit Learn, Tensorflow, PyTorch, SciPy, Matplotlib, Seaborn, Beautiful Soup/li>
   </ul>
 
-  <strong>Libraries</strong>
-  <ul>
-    <li>Pandas, NumPy, Sci-Kit Learn, Tensorflow, PyTorch, SciPy, Matplotlib, Seaborn, Beautiful Soup/li>
-  </ul>
-
   <strong>Applications</strong>
   <ul>
     <li>Amazon Web Services (AWS), GitHub, Tableau, Power BI, Microsoft 365, LaTeX, Jira, Confluence/li>
