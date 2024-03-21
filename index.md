@@ -55,8 +55,9 @@ April 2023 - June 2023
 ## Education
 <p id="Education">
 University of California, San Diego
-  B.S. - Data Science
-  Minor: Business
+<space></space><space></space>B.S. - Data Science
+  <br>
+<space></space><space></space><space></space><space></space>Minor: Business
 <ul>
   <li><strong>Relevant Coursework</strong>: Probabilistic Modeling and ML, Representation Learning, Systems for Scalable Analytics, Recommender Systems and Web Mining, Data Structures and Algorithms, Data Analysis and Inference, Product Management and Marketing</li>
   <li><strong>Involvements</strong>: Data Science Student Society, Society of Women Engineers, Delta Sigma Pi, Chinese American Student Association</li>
