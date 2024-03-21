@@ -17,6 +17,7 @@ Hello! My name is Vivian, and I am a Data Science Major with a Business minor at
 ## My Previous Experiences
 <p id="Experience">
 <strong>Data Science Tutor @Halıcıoğlu Data Science Institute</strong>
+  <br>
 September 2022 - Present
   <ul>
     <li>Answer 300+ questions on the online class forum and develop 10+ LaTeX rubrics for grading assignments and exams</li>
@@ -27,6 +28,7 @@ September 2022 - Present
 <br>
 
 <strong>Software Engineer Intern @Dassault Systèmes</strong>
+<br>
 June 2023 - September 2023
   <ul>
     <li>Created protocols for clients to test regression and classification models and standardize repetitive prediction model tasks</li>
@@ -37,6 +39,7 @@ June 2023 - September 2023
 <br>
 
 <strong>Machine Learning Intern @Hyperplane</strong>
+<br>
 June 2022 - September 2022
   <ul>
     <li>Analyzed a dataset composed of millions of financial data points using BigQuery on Google Cloud Platform</li>
@@ -47,6 +50,7 @@ June 2022 - September 2022
 <br>
 
 <strong>Data Analytics Intern @Lumnus Consulting</strong>
+<br>
 April 2023 - June 2023
   <ul>
     <li>Led a team to utilize exploratory data analysis and computational skills to gain insights on how to continue growing India's agriculture market despite rising carbon emissions and concluded with a presentation to all teams </li>
