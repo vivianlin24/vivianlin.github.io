@@ -1,8 +1,9 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <button><a href="#Introduction">Introduction</a></button>
-<button><a href="#Education">Education</a></button>
 <button><a href="#Experience">Previous Experiences</a></button>
+<button><a href="#Projects">My Projects</a></button>
+<button><a href="#Education">Education</a></button>
 
 ## A Little About Me...
 <p id="Introduction">
@@ -60,9 +61,34 @@ April 2023 - June 2023
   </ul>
 </p>
 
+## My Projects
+<p id="Projects">
+<strong>k-NN Regression Prediction Model: League of Legends</strong>
+    <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here to See!</a>
+  <br>
+  <br>
+  <br>
+  <ul>
+    <li>Built a k-Nearest Neighbor model to predict the winning team of a League of Legends game based on the champions selected and statistics from the first 15 minutes of a game and a basic logistic regression classifier as the baseline model</li>
+    <li>Achieved a model accuracy of just over 80% through hyperparameter tuning and feature engineering</li>
+  </ul>
+
+<strong>Classification Prediction Model: NYPD Civilian Complaints</strong>
+    <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here to See!</a>
+  <br>
+  <br>
+  <br>
+  <ul>
+    <li>Constructed a binary classification model to predict whether a civilian’s complaint to the NYPD will be addressed or not </li>
+    <li>Performed feature engineering to provide the model with more help features and increase the accuracy of the predictions </li>
+    <li>Developed a fairness analysis using permutation tests to assess potential bias for male vs. female-identifying complainants </li>
+  </ul>
+</p>
+
 ## Education
 <p id="Education">
 University of California, San Diego
+  <br>
 <space></space><space></space>B.S. - Data Science
   <br>
 <space></space><space></space><space></space><space></space>Minor: Business
