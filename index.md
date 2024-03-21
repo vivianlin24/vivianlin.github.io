@@ -5,7 +5,7 @@
 ## A Little About Me...
 <p id="Introduction">
   <div class="gallery">
-    <div>
+    <div style="text-align: center;">
         <img src="vivian.jpg" alt="Vivian Lin" style="width: 200px; height: auto;">
     </div>
   </div>
