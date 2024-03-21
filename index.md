@@ -1,9 +1,12 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <button><a href="#Introduction">Introduction</a></button>
-<button><a href="#Experience">Previous Experiences</a></button>
-<button><a href="#Projects">My Projects</a></button>
 <button><a href="#Education">Education</a></button>
+<button><a href="#Experience">Previous Experiences</a></button>
+<button><a href="#Skills">My Skills</a></button>
+<button><a href="#Projects">My Projects</a></button>
+<button><a href="#Free">Hobbies</a></button>
+
 
 ## A Little About Me...
 <p id="Introduction">
@@ -16,6 +19,18 @@
   </div>
 Hello! My name is Vivian, and I am a Data Science Major with a Business minor at the University of California, San Diego. I became a data scientist because I love converting numbers into actionable information. Making data-driven decisions is the smartest thing a company can do at every level, whether it be operations, supply chain, or consumer marketing, and I want to contribute to a team that makes that possible. My resumè is available upon request. Please take a look around to see the internships and leadership positions I've held, as well as projects I have completed! 
 </p>
+
+## Education
+<p id="Education">
+University of California, San Diego
+  <br>
+<space></space><space></space>B.S. - Data Science
+  <br>
+<space></space><space></space><space></space><space></space>Minor: Business
+<ul>
+  <li><strong>Relevant Coursework</strong>: Probabilistic Modeling and ML, Representation Learning, Systems for Scalable Analytics, Recommender Systems and Web Mining, Data Structures and Algorithms, Data Analysis and Inference, Product Management and Marketing</li>
+  <li><strong>Involvements</strong>: Data Science Student Society, Society of Women Engineers, Delta Sigma Pi, Chinese American Student Association</li>
+</ul>
 
 ## My Previous Experiences
 <p id="Experience">
@@ -61,6 +76,29 @@ Hello! My name is Vivian, and I am a Data Science Major with a Business minor at
   </ul>
 </p>
 
+## My Skills
+<p id="Skills">
+  <strong>Languages</strong>
+  <ul>
+    <li>Python, Java, JavaScript, R, SQL, HTML, CSS, MATLAB</li>
+  </ul>
+
+  <strong>Libraries</strong>
+  <ul>
+    <li>Pandas, NumPy, Sci-Kit Learn, Tensorflow, PyTorch, SciPy, Matplotlib, Seaborn, Beautiful Soup/li>
+  </ul>
+
+  <strong>Libraries</strong>
+  <ul>
+    <li>Pandas, NumPy, Sci-Kit Learn, Tensorflow, PyTorch, SciPy, Matplotlib, Seaborn, Beautiful Soup/li>
+  </ul>
+
+  <strong>Applications</strong>
+  <ul>
+    <li>Amazon Web Services (AWS), GitHub, Tableau, Power BI, Microsoft 365, LaTeX, Jira, Confluence/li>
+  </ul>
+</p>
+
 ## My Projects
 <p id="Projects">
 <strong>k-NN Regression Prediction Model: League of Legends</strong>
@@ -86,18 +124,28 @@ Hello! My name is Vivian, and I am a Data Science Major with a Business minor at
     <li>Developed a fairness analysis using permutation tests to assess potential bias for male vs. female-identifying complainants </li>
   </ul>
 </p>
+</p>
 
-## Education
-<p id="Education">
-University of California, San Diego
+## In My Free Time...
+<p id="Free">
+  In my free time, I love to play card games, go to hot yoga, perfect my matcha recipe, and play pickleball. 
   <br>
-<space></space><space></space>B.S. - Data Science
-  <br>
-<space></space><space></space><space></space><space></space>Minor: Business
-<ul>
-  <li><strong>Relevant Coursework</strong>: Probabilistic Modeling and ML, Representation Learning, Systems for Scalable Analytics, Recommender Systems and Web Mining, Data Structures and Algorithms, Data Analysis and Inference, Product Management and Marketing</li>
-  <li><strong>Involvements</strong>: Data Science Student Society, Society of Women Engineers, Delta Sigma Pi, Chinese American Student Association</li>
-</ul>
+  I also like to: 
+  <div class="gallery">
+    <div>
+        <img src="sunset.jpg" alt="sunset">
+        <p><strong>capture the sunset!</strong></p>
+    </div>
+    <div>
+        <img src="dunkin.jpg" alt="dunkin">
+        <p><strong>make memories with my dog, Dunkin!</strong></p>
+    </div> 
+    <div>
+        <img src="hawaii.jpg" alt="hawaii">
+        <p><strong>travel!</strong></p>
+    </div>
+  </div>
+  
 </p>
 
 
