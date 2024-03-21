@@ -51,15 +51,6 @@ button a:hover {
     height: auto;
 }
 
-.photo-container {
-  text-align: center; /* Center aligns inline-block elements */
-}
-
-.photo-container img {
-  display: inline-block;
-  margin: 0 10px; /* Add some margin between photos */
-}
-
 /* puts text in a new line */
 .new-line {
     display: block;
