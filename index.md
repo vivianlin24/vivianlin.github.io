@@ -125,11 +125,11 @@ University of California, San Diego
     <li>Developed a fairness analysis using permutation tests to assess potential bias for male vs. female-identifying complainants </li>
   </ul>
 </p>
-</p>
 
 ## In My Free Time...
 <p id="Free">
   In my free time, I love to play card games, go to hot yoga, perfect my matcha recipe, and play pickleball. 
+  <br>
   <br>
   I also like to: 
   <div class="gallery">
