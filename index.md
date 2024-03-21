@@ -4,6 +4,11 @@
 
 ## A Little About Me...
 <p id="Introduction">
+  <div class="gallery">
+    <div>
+        <img src="vivian.jpg" alt="Vivian Lin">
+        <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button" target="_blank">LinkedIn</a>
+    </div>
 Hello! My name is Vivian, and I am a Data Science Major with a Business minor at the University of California, San Diego. I became a data scientist because I love converting numbers into actionable information. Making data-driven decisions is the smartest thing a company can do at every level, whether it be operations, supply chain, or consumer marketing, and I want to contribute to a team that makes that possible. My resumè is available upon request. Please take a look around to see the internships and leadership positions I've held, as well as projects I have completed! 
 </p>
 
