@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <button><a href="#Introduction">Introduction</a></button>
 <button><a href="#Education">Education</a></button>
 <button><a href="#Experience">Previous Experiences</a></button>
