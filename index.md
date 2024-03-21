@@ -65,7 +65,7 @@ April 2023 - June 2023
 <p id="Projects">
 <strong>k-NN Regression Prediction Model: League of Legends</strong>
   <br>
-    <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here to See!</a>
+    <a href="League_of_Legends_Project.pdf" class="button" target="_blank">Click Here to See!</a>
   <br>
   <br>
   <br>
@@ -76,7 +76,7 @@ April 2023 - June 2023
 
 <strong>Classification Prediction Model: NYPD Civilian Complaints</strong>
 <br>
-    <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here to See!</a>
+    <a href="NYPD_Civilian_Complaints_Project.pdf" class="button" target="_blank">Click Here to See!</a>
   <br>
   <br>
   <br>
